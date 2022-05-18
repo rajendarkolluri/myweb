@@ -1,0 +1,521 @@
+[33mcommit 762fab52ecc1561d2bee26cae1da641764dc332f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: “rajendarkolluri” <“rajendarkolluri09@gmail.com”>
+Date:   Wed May 18 12:27:37 2022 +0530
+
+    kottu
+
+[33mcommit bf47c644577af522fae3055761c491dea520847e[m
+Author: “rajendarkolluri” <“rajendarkolluri09@gmail.com”>
+Date:   Wed May 18 11:30:25 2022 +0530
+
+    kkk
+
+[33mcommit b7dba4dab7d63d4c11ed15a51ef288617a20f7c5[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: srinivas1987devops <srinucloud2@gmail.com>
+Date:   Tue May 17 10:11:33 2022 +0530
+
+    srini
+
+[33mcommit cd32e6151c2f29c75debe69f55ba4468da9dd490[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Tue May 17 06:40:14 2022 +0530
+
+    Update index.jsp
+
+[33mcommit d0d22879588136c8f4fe82943a3834a70bc6fee0[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Tue May 17 06:30:08 2022 +0530
+
+    Update index.jsp
+
+[33mcommit 1c4922ca37be32447f6a45aa8e2ae3770fdf94fe[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Thu May 12 11:33:04 2022 +0530
+
+    Update index.jsp
+
+[33mcommit cba0f5d7db781c28a6bb34788d5da225840896e5[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Thu May 12 11:22:33 2022 +0530
+
+    Update Jenkins-ansible
+
+[33mcommit 32f5435c59e296f1e83ac28db6637d249de0839d[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Thu May 12 11:17:25 2022 +0530
+
+    Update dev.in
+
+[33mcommit a3ce7a44339060c767355859912f511ef53ad961[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Thu May 12 07:51:56 2022 +0530
+
+    Update pom.xml
+
+[33mcommit 6e3a226be16301f9bb7d8a61e23fe35d16f0d10f[m
+Merge: dbd02e3 d3a8ef6
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Tue May 10 06:28:30 2022 +0530
+
+    Merge pull request #257 from srinivas1987devops/dev1
+    
+    Dev1
+
+[33mcommit d3a8ef6478c75c1566c4239a9c01ba075094992d[m[33m ([m[1;31morigin/dev1[m[33m)[m
+Merge: 804026c a06ed6f
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Tue May 10 06:27:23 2022 +0530
+
+    Merge pull request #256 from srinivas1987devops/fet1
+    
+    Create pr001
+
+[33mcommit a06ed6f44efb7f6fda32b30c0264898cee024dc2[m[33m ([m[1;31morigin/fet1[m[33m)[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Tue May 10 06:26:07 2022 +0530
+
+    Create pr001
+
+[33mcommit dbd02e310ec249230eb383bd87814bb02f830f1d[m
+Author: srinivas1987devops <srinucloud2@gmail.com>
+Date:   Tue May 10 06:19:36 2022 +0530
+
+    cr1
+
+[33mcommit 9560b819693fd0ed03e863c3a17297f218d3b58a[m
+Merge: 2f44392 bb3cea8
+Author: srinivas1987devops <srinucloud2@gmail.com>
+Date:   Tue May 10 06:17:05 2022 +0530
+
+    Merge branch 'dev1'
+
+[33mcommit 2f44392b6a5cc97f435968ffbaa8cbbce444d605[m
+Author: srinivas1987devops <srinucloud2@gmail.com>
+Date:   Tue May 10 06:16:50 2022 +0530
+
+    c3
+
+[33mcommit bb3cea8bcadfd63b6fc7333776309ae0b72afb9e[m
+Merge: 455f652 ecd48a3
+Author: srinivas1987devops <srinucloud2@gmail.com>
+Date:   Tue May 10 06:15:58 2022 +0530
+
+    Merge branch 'fet1' into dev1
+
+[33mcommit 455f652e179ec3352e2cc476d25124efaab35f19[m
+Author: srinivas1987devops <srinucloud2@gmail.com>
+Date:   Tue May 10 06:15:51 2022 +0530
+
+    c2
+
+[33mcommit ecd48a3efc05f501b72c45e1080331f805a4161b[m
+Author: srinivas1987devops <srinucloud2@gmail.com>
+Date:   Tue May 10 06:15:23 2022 +0530
+
+    c1
+
+[33mcommit 57c5e6b2dfe218d3232de86be9cbe77df9a9b08b[m
+Author: srinivas1987devops <srinucloud2@gmail.com>
+Date:   Tue May 10 06:10:10 2022 +0530
+
+    merge1
+
+[33mcommit 804026cea95cd86314974bf9875b375ba30af5ba[m
+Author: srinivas1987devops <srinucloud2@gmail.com>
+Date:   Fri May 6 06:29:39 2022 +0530
+
+    m3
+
+[33mcommit e45d06c3bcdb17c7cf5d0354839a4159c917c64a[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Fri May 6 06:18:49 2022 +0530
+
+    Update jamalpasha
+
+[33mcommit 710c02d61f439ed74a3d76eba85fb719c4ff4a25[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Fri May 6 06:17:43 2022 +0530
+
+    Update mahesh
+
+[33mcommit 974148084c92a99dd41f34a93c10ea19bf118cc5[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Fri May 6 06:15:41 2022 +0530
+
+    Add files via upload
+
+[33mcommit 1fce150be5e306f76e732aba67a0aab75b877c14[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Fri May 6 06:14:44 2022 +0530
+
+    Create jamalpasha
+
+[33mcommit 598a585f3f177fa5e3e4848d449a720794da4291[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Fri May 6 06:12:30 2022 +0530
+
+    Update srini123
+
+[33mcommit 210a96dde4ca084fc2526f3d5ba386bddbf181a3[m
+Author: srinivas1987devops <srinucloud2@gmail.com>
+Date:   Fri May 6 06:09:33 2022 +0530
+
+    s1
+
+[33mcommit d4d46576203f60c7460c0092c0544a0bdcca1104[m
+Author: srinivas1987devops <srinucloud2@gmail.com>
+Date:   Thu May 5 06:56:00 2022 +0530
+
+    m1
+
+[33mcommit 4c0e0de899eef532ef9d52639de3290421a2c6d5[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Thu May 5 05:44:27 2022 +0530
+
+    Delete mani1
+
+[33mcommit 4299536f412a7e3c3279ea828bbfd859af959b4b[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Thu May 5 05:44:03 2022 +0530
+
+    Delete mahendar
+
+[33mcommit 9d8635de99400410eae4fedf58e855cb9de03b34[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Thu May 5 05:43:52 2022 +0530
+
+    Delete ch1
+
+[33mcommit d8c628049c950ffc9cc6e4fdba52dd71a0a861c9[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Thu May 5 05:43:36 2022 +0530
+
+    Delete mr1
+
+[33mcommit 3c12674bfb5ff3f84b368b90b86ec476176a0168[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Thu May 5 05:43:25 2022 +0530
+
+    Delete mr2
+
+[33mcommit 065c52f4b4153a5164dc1114b6a95803105f30da[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Thu May 5 05:43:14 2022 +0530
+
+    Delete jhony
+
+[33mcommit 020ad385c41f82459979a2c981cffa42ff7cdf48[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Thu May 5 05:42:59 2022 +0530
+
+    Delete mr3
+
+[33mcommit 1db1583ee9e00fa579eef9708145c16b507ffcf2[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Thu May 5 05:42:49 2022 +0530
+
+    Delete one
+
+[33mcommit c57e5fac74cfec324059c2fc9fe5dc90f77efb83[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Thu May 5 05:42:36 2022 +0530
+
+    Delete s1
+
+[33mcommit cd64336802956156e7de2e208da2d900403e3ef9[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Thu May 5 05:42:24 2022 +0530
+
+    Delete s2
+
+[33mcommit 9855cff4721ae1ad3ec70c387f83d7cd2a44c898[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Thu May 5 05:42:13 2022 +0530
+
+    Delete s3
+
+[33mcommit c4a77975419bf63ba568c96612c0ee95eca85eb0[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Thu May 5 05:41:51 2022 +0530
+
+    Delete rajesh
+
+[33mcommit a7ec1ca196d3bdae987dced249673ade06ad7307[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Thu May 5 05:41:38 2022 +0530
+
+    Delete sbicr1.0
+
+[33mcommit af32bb7aa35449fa2d67418670b1a6a1dfb4f2ee[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Thu May 5 05:41:24 2022 +0530
+
+    Delete srini
+
+[33mcommit 51a0b4bb0c5052d97fb3dce9ae24440c31d9b406[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Thu May 5 05:40:31 2022 +0530
+
+    Delete awsinfra.pdf
+
+[33mcommit cc8a4f81bdcfe71507114c88b765cc97e5679cd6[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Tue May 3 11:14:36 2022 +0530
+
+    Update index.jsp
+
+[33mcommit aead9984b053eea5733e9a38f2866eef78a4d7eb[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Tue May 3 11:10:31 2022 +0530
+
+    Update index.jsp
+
+[33mcommit a29f3f5a9746522e17c39815a3280e6171996fae[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Tue May 3 11:09:00 2022 +0530
+
+    Update Jenkins-sonar-nexus-tomcat
+
+[33mcommit 57faa63620a6c2ba34366612f8172b6f2d85ec94[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Tue May 3 11:07:12 2022 +0530
+
+    Update Jenkins-sonar-nexus-tomcat
+
+[33mcommit 2447b11a9152e77d69c531940efc033fe43ea2ee[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Tue May 3 10:49:43 2022 +0530
+
+    Update index.jsp
+
+[33mcommit cc5770b012e3c830f79a8985d9dab21587f6e417[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Tue May 3 09:41:20 2022 +0530
+
+    Update pom.xml
+
+[33mcommit e6562e5944a3c9141936ce78d3a8cf4dd2e1fcf2[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Mon May 2 11:32:44 2022 +0530
+
+    Update pom.xml
+
+[33mcommit 3c823e6f472c15614899a23f370e946cd445843e[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Mon May 2 11:28:46 2022 +0530
+
+    Update pom.xml
+
+[33mcommit 6c51461211e8fdf4ac4a61b6305aa7a4d9b62ff9[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Mon May 2 11:27:32 2022 +0530
+
+    Update pom.xml
+
+[33mcommit 2b4ff42bc2d18a68840be95c8282b41b6c3c1668[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Mon May 2 11:16:43 2022 +0530
+
+    Update pom.xml
+
+[33mcommit 66c7b210e8da712c60c5a77377f8825d30567317[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Sat Apr 30 10:09:21 2022 +0530
+
+    Update pom.xml
+
+[33mcommit b4dc1ad9d4c751e0cc8f66bbc4c49a4eeb7f7c1d[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Sat Apr 30 09:37:38 2022 +0530
+
+    Update index.jsp
+
+[33mcommit e5d124ce19316fe2e9022136f2e1cc7c2f7b7963[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Sat Apr 30 09:30:50 2022 +0530
+
+    Update Jenkins-decnew
+
+[33mcommit 7baecd051371ecb6e8d35025811f1fe7c9ce7f2a[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Fri Apr 29 18:53:08 2022 +0530
+
+    Update Jenkins-kube
+
+[33mcommit c7569dfba739498f900f90551ebab64c8127a407[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Fri Apr 29 18:52:30 2022 +0530
+
+    Update pom.xml
+
+[33mcommit cb47faf5beeacdb75597d346532c7e0bd650f1e4[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Fri Apr 29 11:35:03 2022 +0530
+
+    Update index.jsp
+
+[33mcommit a9b5136b1fc4a06e8856ec3c431332886666e4bb[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Tue Apr 26 11:10:31 2022 +0530
+
+    Update index.jsp
+
+[33mcommit e25775e752be842b1ead21e3e26a8f8f9214d409[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Tue Apr 26 10:59:39 2022 +0530
+
+    Update index.jsp
+
+[33mcommit 28268bbf1b17c5781cf76acd0bbfd8fae67caed9[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Sat Apr 23 07:46:40 2022 +0530
+
+    Update Jenkins-kube
+
+[33mcommit c06a703a059a287c03c4e2fa4fe5cf4400877d97[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Sat Apr 23 07:41:15 2022 +0530
+
+    Update pom.xml
+
+[33mcommit 2f104858eabb7da54facc7b880b3086b328b3272[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Fri Apr 22 19:18:15 2022 +0530
+
+    Update dev.in
+
+[33mcommit 13bb90cb9b0c0edc8f94ac7f521bc8e35a0d1779[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Fri Apr 22 18:51:19 2022 +0530
+
+    Update Jenkins-ansible
+
+[33mcommit 7ff0a41bb2781918b163207e457c6b11c1c896c5[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Fri Apr 22 18:49:16 2022 +0530
+
+    Update pom.xml
+
+[33mcommit 5cf2080a2d2fd49801946128e9510c635fc74950[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Fri Apr 22 18:41:07 2022 +0530
+
+    Update pom.xml
+
+[33mcommit 75a219f2fb68a6df98ef60173637f3a11a62838e[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Tue Apr 19 11:08:41 2022 +0530
+
+    Update rajesh
+
+[33mcommit 2f3be3aeec3dc99642ee20660dfe777f23936392[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Tue Apr 19 11:07:10 2022 +0530
+
+    Update rajesh
+
+[33mcommit 3376c96c4a4e2d789f546a69e1f39bf2a59ed84b[m
+Merge: e862775 858f0a1
+Author: srinivas1987devops <srinucloud2@gmail.com>
+Date:   Tue Apr 19 11:06:14 2022 +0530
+
+    Merge branch 'master' of https://github.com/srinivas1987devops/myweb
+
+[33mcommit e86277587175184d271bda86ab5917eaef2b063b[m
+Author: srinivas1987devops <srinucloud2@gmail.com>
+Date:   Tue Apr 19 11:05:36 2022 +0530
+
+    0
+
+[33mcommit a62b0e27b08fc5b2b807ba3eb912af7877a65da3[m
+Author: srinivas1987devops <srinucloud2@gmail.com>
+Date:   Mon Apr 18 11:04:07 2022 +0530
+
+    m1
+
+[33mcommit 858f0a1b9b829f710234a82ffed0b7aa685c226e[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Mon Apr 18 10:15:44 2022 +0530
+
+    Update Jenkins-docker
+
+[33mcommit 30acc3f5ffc001fd3fcb9163a90a5a50cff57547[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Mon Apr 18 09:59:51 2022 +0530
+
+    Update pom.xml
+
+[33mcommit 5a53b1643c5da92dcf5d9dd577c4c0ee542782e2[m
+Merge: 6fce6f7 269a574
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Thu Apr 14 11:16:03 2022 +0530
+
+    Merge pull request #249 from srinivas1987devops/dev300
+    
+    Dev300
+
+[33mcommit 269a5741ef6d7283ff15195cdfae61a8e3602421[m
+Merge: 592fdc5 62202a5
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Thu Apr 14 11:14:50 2022 +0530
+
+    Merge pull request #248 from srinivas1987devops/fet300
+    
+    Create jhony
+
+[33mcommit 62202a5f82be28452fc6b070a4d26ba91a8af23c[m
+Author: srinivas1987devops <54583870+srinivas1987devops@users.noreply.github.com>
+Date:   Thu Apr 14 11:13:14 2022 +0530
+
+    Create jhony
+
+[33mcommit 6fce6f77f3fd455e6077a1a21237bf85f817b272[m
+Author: srinivas1987devops <srinucloud2@gmail.com>
+Date:   Thu Apr 14 11:07:20 2022 +0530
+
+    c1
+
+[33mcommit dc217bb3d5076790d8644ba028f0e2762356d0f3[m
+Merge: 8362b6d 22aee50
+Author: srinivas1987devops <srinucloud2@gmail.com>
+Date:   Thu Apr 14 11:02:55 2022 +0530
+
+    Merge branch 'dev300'
+
+[33mcommit 8362b6d82c4828d3bd836da270030c9e4085d926[m
+Author: srinivas1987devops <srinucloud2@gmail.com>
+Date:   Thu Apr 14 11:02:44 2022 +0530
+
+    3
+
+[33mcommit 22aee505ea69afa488c410a06ef000027776871b[m
+Merge: c79427b e2ef763
+Author: srinivas1987devops <srinucloud2@gmail.com>
+Date:   Thu Apr 14 11:02:13 2022 +0530
+
+    Merge branch 'fet300' into dev300
+
+[33mcommit c79427b83d19885d50715fd93dc7db12e739f576[m
+Author: srinivas1987devops <srinucloud2@gmail.com>
+Date:   Thu Apr 14 11:01:34 2022 +0530
+
+    2
+
+[33mcommit e2ef763bbdec219a517e56e5d014749461f2c2f0[m
+Author: srinivas1987devops <srinucloud2@gmail.com>
+Date:   Thu Apr 14 11:00:58 2022 +0530
+
+    1
+
+[33mcommit 294d11d35480b19b21337a32933bc0efbeb582ab[m
+Merge: 6e0ad08 dff43c3
+Author: srinivas1987devops <srinucloud2@gmail.com>
+Date:   Thu Apr 14 10:58:20 2022 +0530
+
+    Merge branch 'dev300'
+
+[33mcommit 6e0ad08866eb258af05c3cf7851c911aa8b25ae0[m
+Author: srinivas1987devops <srinucloud2@gmail.com>
+Date:   Thu Apr 14 10:58:09 2022 +0530
+
+    three
